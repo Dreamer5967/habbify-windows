@@ -1,26 +1,26 @@
-# 💻 Habbify - Windows Distribution & Installer Repo
+# 💻 Habbify - Windows Distribution & Release Repo
 
-Dedicated repository containing official Windows build distributions for **Habbify Habit & Productivity Suite**.
+Official Windows installer distribution repository for **Habbify Habit & Productivity Suite**.
 
 ---
 
-## 📦 Downloads & Installers
+## 📦 Direct Downloads & Releases
 
-- **Windows Installer (`.exe`)**: [`Habbify-Setup.exe`](./Habbify-Setup.exe) *(121.3 MB)*
-- **Release Directory**: [`release/Habbify-Setup.exe`](./release/Habbify-Setup.exe)
+- 🚀 **[Download Habbify-Setup.exe (v1.0.0)](https://github.com/Dreamer5967/habbify-windows/releases/download/v1.0.0/Habbify-Setup.exe)** *(Direct Download - 115.7 MB)*
+- 🏷️ **[View GitHub Release v1.0.0](https://github.com/Dreamer5967/habbify-windows/releases/tag/v1.0.0)**
 
 ---
 
 ## 🚀 How to Install on Windows / Parallels Desktop
 
-### Option 1: Direct Installer (`Habbify-Setup.exe`)
-1. Double-click `Habbify-Setup.exe`.
-2. Follow the setup prompt to install **Habbify** on your system.
-3. Launch Habbify directly from your Desktop or Start Menu!
+### Option 1: Direct Download & Install
+1. Download **[Habbify-Setup.exe](https://github.com/Dreamer5967/habbify-windows/releases/download/v1.0.0/Habbify-Setup.exe)**.
+2. Double-click `Habbify-Setup.exe` to run the installer.
+3. Launch Habbify directly from your Windows Desktop or Start Menu!
 
 ### Option 2: Testing via Parallels Desktop on macOS
 1. Open **Parallels Desktop** with your Windows virtual machine.
-2. Drag `Habbify-Setup.exe` from this repository or your Mac Downloads folder into your Windows environment.
+2. Download or drag `Habbify-Setup.exe` into your Windows VM.
 3. Run `Habbify-Setup.exe` inside Windows.
 
 ---
