@@ -1,34 +1,27 @@
 # 💻 Habbify - Windows Distribution & Release Repo
 
-Official Windows installer distribution repository for **Habbify Habit & Productivity Suite**.
+Official Windows executable distribution repository for **Habbify Habit & Productivity Suite**.
 
 ---
 
 ## 📦 Direct Downloads & Releases
 
-- 🚀 **[Download Habbify-Setup.exe (v1.0.0)](https://github.com/Dreamer5967/habbify-windows/releases/download/v1.0.0/Habbify-Setup.exe)** *(Direct Download - 115.7 MB)*
-- 🏷️ **[View GitHub Release v1.0.0](https://github.com/Dreamer5967/habbify-windows/releases/tag/v1.0.0)**
+- 🚀 **[Download Habbify-Setup.exe (v1.0.1 - asInvoker)](https://github.com/Dreamer5967/habbify-windows/releases/download/v1.0.1/Habbify-Setup.exe)** *(Direct Download - 121.3 MB)*
+- 🏷️ **[View GitHub Release v1.0.1](https://github.com/Dreamer5967/habbify-windows/releases/tag/v1.0.1)**
 
 ---
 
-## 🚀 How to Install on Windows / Parallels Desktop
+## 🛡️ Windows Defender / SmartScreen Instructions
 
-### Option 1: Direct Download & Install
-1. Download **[Habbify-Setup.exe](https://github.com/Dreamer5967/habbify-windows/releases/download/v1.0.0/Habbify-Setup.exe)**.
-2. Double-click `Habbify-Setup.exe` to run the installer.
-3. Launch Habbify directly from your Windows Desktop or Start Menu!
+Because self-built Electron applications do not carry a $500/yr commercial EV code-signing certificate, Windows SmartScreen flags downloaded files from the web by default.
 
-### Option 2: Testing via Parallels Desktop on macOS
-1. Open **Parallels Desktop** with your Windows virtual machine.
-2. Download or drag `Habbify-Setup.exe` into your Windows VM.
-3. Run `Habbify-Setup.exe` inside Windows.
-
----
-
-## 🛠️ System Requirements
-- **OS**: Windows 10 / 11 (x64 / ARM64 via emulation)
-- **RAM**: 2 GB minimum (4 GB recommended)
-- **Storage**: ~250 MB free disk space
+### How to Run on Windows:
+1. Download **[Habbify-Setup.exe](https://github.com/Dreamer5967/habbify-windows/releases/download/v1.0.1/Habbify-Setup.exe)**.
+2. **Unblock Mark-of-the-Web**:
+   - Right-click `Habbify-Setup.exe` -> **Properties**.
+   - At the bottom of the **General** tab, check the **Unblock** box.
+   - Click **Apply** and **OK**.
+3. Double-click `Habbify-Setup.exe`. If SmartScreen appears, click **More Info** -> **Run Anyway**.
 
 ---
 
